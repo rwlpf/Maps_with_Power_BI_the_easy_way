@@ -38,3 +38,6 @@ https://www.google.co.uk/maps
 
 LOSA areas for England and Wales
 https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-boundaries-super-generalised-clipped-bsc-ew-v3
+
+Link to the Power BI Pothole report shown in the presentation for Glasgow
+http://bit.ly/GCC_DataStory
